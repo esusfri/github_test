@@ -1,1 +1,2 @@
 hej
+Nu ändrar jag lite i denna fil i repositorit för att se om jag kan få ner ändringen till ming locala dator.
